@@ -1,0 +1,16 @@
+proceso total del pructo
+
+escriba 'digite la cantidad de clientes'
+llamar nuevo_cliente
+lea 'cantidad de productos'
+total  compra <-0
+escriba 'cantidad de productos'
+lea 'total compra <-total compra'+ 'valor del producto:',
+fin 
+escriba ' el total de la compra del cliente:', 'y','es':,
+lea 'total <-total dia + total compra'
+fin
+escriba 'total de ventas del dia fue:', 'total dia'
+
+fin
+fin
