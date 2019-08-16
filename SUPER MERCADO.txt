@@ -14,3 +14,42 @@ escriba 'total de ventas del dia fue:', 'total dia'
 
 fin
 fin
+
+
+priena de  LPP
+15-08-2019
+ANDERSON SARMIENTO
+
+real  a,b,ca
+
+caracter c
+
+entero opcion2,base,h,area
+inicio
+		escriba "ingrese un caracter del menu"
+			llamar nueva_linea
+		escriba "s para la suma "
+			llamar nueva_linea
+		escriba "r para restar"
+			llamar nueva_linea
+		escriba "caracter distintos a r,s para terminar "
+			llamar nueva_linea
+	lea c
+	caso c
+	'S','s':escriba " vamos a la suma"
+			llamar nueva_linea
+		escriba "ingrese el primer numero"
+			llamar nueva_linea
+	lea a			
+		escriba "ingrese el segundo numero"
+			llamar nueva_linea
+	lea b
+			llamar nueva_linea
+		ca <- a+b
+		escriba "la suma es ", ca
+	'r': escriba " vamos a restar "
+sino:	escriba "opcion invalida "
+fin caso
+fin
+										
+	
