@@ -1,3 +1,12 @@
+<html>
+
+<head>
+        <title>Primer Proyecto Git Hub en Grupo</title>
+    </head>
+  <body>
+  
+  
+
 proceso total del pructo
 
 escriba 'digite la cantidad de clientes'
@@ -15,6 +24,8 @@ fin
 fin
 fin
 
+</body>
+</html>
 
 
 priena de  LPP
