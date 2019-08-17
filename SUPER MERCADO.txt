@@ -10,10 +10,11 @@ fin
 escriba ' el total de la compra del cliente:', 'y','es':,
 lea 'total <-total dia + total compra'
 fin
-escriba 'total de ventas del dia fue:', 'total dia'
+<p>escriba 'total de ventas del dia fue:', 'total dia'<p/>
 
 fin
 fin
+
 
 
 priena de  LPP
